@@ -1,0 +1,89 @@
+
+#title{
+  color: black;
+  font-family: "Montserrat-bold",sans-serif;
+  background-image: url("images/Group\ 15723@2x.png"), url("images/Ellipse\ 94.png"), url("images/Ellipse\ 95.png");
+  background-position: left top, right, right bottom;
+  background-repeat: no-repeat;
+  background-size: 65%, 70%, 50%;
+}
+
+.logo{
+ font-size: 2.5rem;
+ font-weight: 700;
+ color: #1e4190;
+ padding-left: 5%;
+}
+.navbar{
+  padding: 1.5% 0 5% 0;
+  
+}
+.nav-item{
+  padding: 0px 18px;
+ 
+}
+.nav-links{
+  
+font-size: 1.4rem;
+}
+.Clarify-your-doubts-in-your-language {
+  margin-top: 7%;
+  object-fit: contain;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: left;
+  color: #4b4b4b;
+  padding:0 0 10% 0;
+}
+.Clarify-your-doubts-in-your-language h1{
+  padding-left: 11%;
+  font-size: 3rem;
+  font-weight: 900;
+  font-family: Montserrat, sans-serif;
+}
+
+.Clarify-your-doubts-in-your-language strong {
+  color: #1e4190;
+}
+.Rectangle-487 {
+  position: absolute;
+  width: 90%;
+  object-fit: contain;
+  opacity: 0.81;
+  border-radius: 30.5px;
+  
+}
+.Rectangle-572 {
+  position: relative;
+  z-index: 2;
+  width: 83%;
+  top: 6.9%;
+  left: 4.2%;
+  object-fit: contain;
+  background-color: #ffffff;
+}
+.Group-374 {
+  position: relative;
+  z-index: 4;
+  width: 20%;
+  height: 20%;
+  left: 36%;
+  top: -40%;
+  object-fit: contain;
+}
+.ask-your-doubt-btn{
+  object-fit: contain;
+  border-radius: 10px;
+  background-color: #d60b3c;
+  color: white;
+  text-align: center;
+  margin: 3% 30% auto;
+}
+.stats{
+  margin: 3% auto 0 ;
+}
+.stat{
+  padding: 4% 4% 0 4% ;
+}
